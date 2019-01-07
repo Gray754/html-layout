@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: gray;
+    width: 100vh;
+    height: 15vh;
+
+}
+
+.main {
+    background-color: whitesmoke;
+    width: 75vw;
+    height: 70vh;
+    margin: auto;
+}
+
+.foot{
+    background-color: black;
+    width: 75vw;
+    height: 20vh;
+    margin: auto;
+}
