@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100vw;
+    height: 140px;
+}
+
+.grey{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    margin-left: 25px;
+    background-color: blue;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    height: 250px;
+}
+
+.text p{
+    font-size: 2em;
+    width: 85vw;
+    margin: auto;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.offgreen{
+    background-color: lightgreen;
+}
+
+.yellow{
+    background-color:  yellow;
+}
